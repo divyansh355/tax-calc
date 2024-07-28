@@ -1,4 +1,3 @@
-import React from 'react';
 import IncomeTaxCalculator from './components/IncomeTaxCalculator';
 
 const App = () => {
